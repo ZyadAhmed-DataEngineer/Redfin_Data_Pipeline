@@ -2,6 +2,7 @@
     This project delivers a comprehensive ETL pipeline designed to extract, transform, and load (ETL) real estate data from the Redfin website into an Amazon S3 bucket, The pipeline is built using a powerful combination of AWS tools and open-source frameworks to ensure seamless and scalable data processing.
 
 #🔧 Key Technologies Used
+
 1- Amazon S3 for scalable object storage.
 2- AWS EMR to leverage the power of distributed computing.
 3- PySpark & Apache Spark for efficient big data processing.
